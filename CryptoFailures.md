@@ -20,4 +20,6 @@ nmap -p- --open <target-IP>
 
 ![Screenshot (392)](https://github.com/user-attachments/assets/f5fe5f5c-2465-4637-b7bb-276f26f0a1f6)
 
-1. There are two open port here, port 80 (http) and port 22 (ssh).
+There are two open port here, port 80 (http) and port 22 (ssh).
+
+
